@@ -1,0 +1,12 @@
+{"sites": [
+    {
+        "id": 1,
+        "name": "Maryborough",
+        "resource_id": "N/A",
+        "API_key": "N/A",
+        "latitude": "-37.01",
+        "longitude": "143.72",
+        "timezone": 10,
+        "client_name": "Lindsay"
+    }
+]}
